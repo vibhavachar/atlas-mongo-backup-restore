@@ -1,8 +1,6 @@
-# atlas-mongo-backup-restore
-
+Applicable to Atlas Mongodb Database
  
-
-I was not able to find any scripts which did end to end backup and restore, so thought of writing my own. Might help others.....
+I was not able to find any scripts which did end to end backup and restore, so thought of heloing the comminity. If some one elase done in a better way please feel free to share. 
 
 Many fintech companies face an audit requirement to perform comprehensive backup and restore of their data sources every six months. This routine ensures data integrity by checking for data sanity and corruption. Providing evidence of data reliability, but it frequently consumes a significant amount of DevOps time. Because this task only arises biannually, it’s often overlooked until auditors request the required documentation and proof of process.
 
